@@ -1,1 +1,2 @@
-Zimbra Laos translation
+Zimbra Laos translation project
+By OpenEC localization team
