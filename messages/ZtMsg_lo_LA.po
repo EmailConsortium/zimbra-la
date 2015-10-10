@@ -1,0 +1,2527 @@
+#. #
+#. #
+#. # ***** BEGIN LICENSE BLOCK *****
+#. # Zimbra Collaboration Suite Web Client
+#. # Copyright (C) 2013, 2014 Zimbra, Inc.
+#. # 
+#. # This program is free software: you can redistribute it and/or modify it under
+#. # the terms of the GNU General Public License as published by the Free Software Foundation,
+#. # version 2 of the License.
+#. # 
+#. # This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+#. # without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#. # See the GNU General Public License for more details.
+#. # You should have received a copy of the GNU General Public License along with this program.
+#. # If not, see <http://www.gnu.org/licenses/>.
+#. # ***** END LICENSE BLOCK *****
+#. #
+#. extracted from ZtMsg.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-10 10:00+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#. # Login
+#: htmlMobileClient
+msgid "Switch to the mobile version"
+msgstr ""
+
+#. # Bookmark Title
+#: zimbraTitle
+msgid "Zimbra"
+msgstr ""
+
+#. # Splash Screen
+#: splashScreenAppName
+msgid "Touch Client"
+msgstr ""
+
+#: splashScreenCopyright
+msgid ""
+"Copyright © 2005-2014 Zimbra, Inc. All rights reserved. \"Zimbra\" is a "
+"registered trademark of Zimbra, Inc."
+msgstr ""
+
+#. # App menu
+#: applicationsGroup
+msgid "Applications"
+msgstr ""
+
+#: otherGroup
+msgctxt "otherGroup"
+msgid "Other"
+msgstr ""
+
+#: appMail
+msgid "Mail"
+msgstr ""
+
+#: appContacts
+msgctxt "appContacts"
+msgid "Contacts"
+msgstr ""
+
+#: appCalendar
+msgctxt "appCalendar"
+msgid "Calendar"
+msgstr ""
+
+#. # Alert dialogs
+#: error
+msgid "Error"
+msgstr ""
+
+#: warning
+msgctxt "warning"
+msgid "Warning"
+msgstr ""
+
+#. # Generic cross-app button text
+#: yes
+msgid "Yes"
+msgstr ""
+
+#: no
+msgid "No"
+msgstr ""
+
+#: ok
+msgid "OK"
+msgstr ""
+
+#: cancel
+msgid "Cancel"
+msgstr ""
+
+#: del
+msgid "Delete"
+msgstr ""
+
+#: edit
+msgid "Edit"
+msgstr ""
+
+#: search
+msgid "Search"
+msgstr ""
+
+#: more
+msgid "More"
+msgstr ""
+
+#: save
+msgid "Save"
+msgstr ""
+
+#: done
+msgid "Done"
+msgstr ""
+
+#. # Placeholders for list panel
+#: loadingCalendar
+msgid "Loading calendar..."
+msgstr ""
+
+#: loadingContacts
+msgid "Loading contacts..."
+msgstr ""
+
+#: loadingConvs
+msgid "Loading conversations..."
+msgstr ""
+
+#: noContacts
+msgid "No contacts found"
+msgstr ""
+
+#: noConvs
+msgid "No conversations found"
+msgstr ""
+
+#: loadMore
+msgid "Load More..."
+msgstr ""
+
+#: pullToRefresh
+msgid "Pull down to refresh"
+msgstr ""
+
+#. # Placeholders for item panel
+#: emptyConvPanel
+msgid "Tap a conversation to view it"
+msgstr ""
+
+#: emptyContactPanel
+msgid "Tap a contact to view it"
+msgstr ""
+
+#. # Application Update and Exit
+#: appUpdateTitle
+msgid "Application Update"
+msgstr ""
+
+#: appUpdateMsg
+msgid "This application has been successfully updated. Reload now?"
+msgstr ""
+
+#: appExitWarning
+msgid ""
+"Doing so will terminate Zimbra Touch Client, and you will lose any unsaved "
+"changes."
+msgstr ""
+
+#. # Top-level overview with apps
+#: settings
+msgid "Settings"
+msgstr ""
+
+#: logout
+msgid "Sign Out"
+msgstr ""
+
+#. # Overview titles for showing folder trees
+#: addressBooks
+msgid "Address Books"
+msgstr ""
+
+#: folders
+msgid "Folders"
+msgstr ""
+
+#: searches
+msgid "Searches"
+msgstr ""
+
+#: tags
+msgctxt "tags"
+msgid "Tags"
+msgstr ""
+
+#: calendars
+msgid "Calendars"
+msgstr ""
+
+#. # System folder names
+#: folderInbox
+msgid "Inbox"
+msgstr ""
+
+#: folderTrash
+msgid "Trash"
+msgstr ""
+
+#: folderJunk
+msgid "Junk"
+msgstr ""
+
+#: folderSent
+msgctxt "folderSent"
+msgid "Sent"
+msgstr ""
+
+#: folderDrafts
+msgid "Drafts"
+msgstr ""
+
+#: folderContacts
+msgctxt "folderContacts"
+msgid "Contacts"
+msgstr ""
+
+#: folderEmailedContacts
+msgid "Emailed Contacts"
+msgstr ""
+
+#: folderCalendar
+msgctxt "folderCalendar"
+msgid "Calendar"
+msgstr ""
+
+#. # Folder management (create, rename)
+#: newFolder
+msgid "New Folder"
+msgstr ""
+
+#: newTag
+msgid "New Tag"
+msgstr ""
+
+#: editFolder
+msgid "Edit Folder"
+msgstr ""
+
+#: editTag
+msgid "Edit Tag"
+msgstr ""
+
+#: folderName
+msgid "Folder name"
+msgstr ""
+
+#: tagName
+msgid "Tag name"
+msgstr ""
+
+#: colorLabel
+msgid "Color"
+msgstr ""
+
+#: folderLocationLabel
+msgctxt "folderLocationLabel"
+msgid "Location"
+msgstr ""
+
+#: nameMissing
+msgid "Name is required."
+msgstr ""
+
+#: nameTooLong
+msgid "The name must be at most {0} characters long."
+msgstr ""
+
+#: nameInvalid
+msgctxt "nameInvalid"
+msgid "\"{0}\" is not a valid name. It contains at least one invalid character."
+msgstr ""
+
+#: noChangesMade
+msgid "No changes made."
+msgstr ""
+
+#. # Internal system folder names
+#: distributionLists
+msgid "Distribution Lists"
+msgstr ""
+
+#. # List toolbar title
+#: searchResults
+msgid "Search Results"
+msgstr ""
+
+#. # Units to show how recently a message was received
+#: minute
+msgctxt "minute"
+msgid "m"
+msgstr ""
+
+#: minutes
+msgctxt "minutes"
+msgid "m"
+msgstr ""
+
+#: hour
+msgctxt "hour"
+msgid "h"
+msgstr ""
+
+#: hours
+msgctxt "hours"
+msgid "h"
+msgstr ""
+
+#: day
+msgctxt "day"
+msgid "d"
+msgstr ""
+
+#: days
+msgctxt "days"
+msgid "d"
+msgstr ""
+
+#: week
+msgctxt "week"
+msgid "w"
+msgstr ""
+
+#: weeks
+msgctxt "weeks"
+msgid "w"
+msgstr ""
+
+#: year
+msgctxt "year"
+msgid "y"
+msgstr ""
+
+#: years
+msgctxt "years"
+msgid "y"
+msgstr ""
+
+#. # Phrase that shows how recently a message or conversation was received
+#. ## receivedNow should be as terse as possible - <5 characters !!!
+#: receivedNow
+msgid "now"
+msgstr ""
+
+#: receivedRecently
+msgid "{0}{1}"
+msgstr ""
+
+#. # Headers (used in message header display, compose labels, and to find quoted content)
+#: toHdr
+msgid "To"
+msgstr ""
+
+#: ccHdr
+msgid "Cc"
+msgstr ""
+
+#: bccHdr
+msgid "Bcc"
+msgstr ""
+
+#: dateHdr
+msgctxt "dateHdr"
+msgid "Date"
+msgstr ""
+
+#: fromHdr
+msgid "From"
+msgstr ""
+
+#: sentHdr
+msgctxt "sentHdr"
+msgid "Sent"
+msgstr ""
+
+#: subjectHdr
+msgctxt "subjectHdr"
+msgid "Subject"
+msgstr ""
+
+#: tagsHdr
+msgctxt "tagsHdr"
+msgid "Tags"
+msgstr ""
+
+#: onBehalfOfMidLabel
+msgctxt "onBehalfOfMidLabel"
+msgid "on behalf of"
+msgstr ""
+
+#: byWayOfMidLabel
+msgid "by way of"
+msgstr ""
+
+#: unknown
+msgid "Unknown"
+msgstr ""
+
+#. # Email subject prefixes
+#: fwPrefix
+msgid "Fw:"
+msgstr ""
+
+#: fwdPrefix
+msgid "Fwd:"
+msgstr ""
+
+#: rePrefix
+msgid "Re:"
+msgstr ""
+
+#. # Mail actions (menu items)
+#: markRead
+msgid "Mark read"
+msgstr ""
+
+#: markUnread
+msgid "Mark unread"
+msgstr ""
+
+#: flag
+msgid "Flag"
+msgstr ""
+
+#: unflag
+msgid "Unflag"
+msgstr ""
+
+#: reply
+msgid "Reply"
+msgstr ""
+
+#: replyAll
+msgid "Reply to all"
+msgstr ""
+
+#: forward
+msgid "Forward"
+msgstr ""
+
+#: move
+msgid "Move"
+msgstr ""
+
+#: tag
+msgid "Tag"
+msgstr ""
+
+#: markSpam
+msgid "Spam"
+msgstr ""
+
+#: markNotSpam
+msgid "Not spam"
+msgstr ""
+
+#: convMarkRead
+msgid "Mark conversation read"
+msgstr ""
+
+#: convMarkUnread
+msgid "Mark conversation unread"
+msgstr ""
+
+#: convFlag
+msgid "Flag conversation"
+msgstr ""
+
+#: convUnflag
+msgid "Unflag conversation"
+msgstr ""
+
+#: convMove
+msgid "Move conversation"
+msgstr ""
+
+#: convTag
+msgid "Tag conversation"
+msgstr ""
+
+#: convSwitchToMessageView
+msgid "Switch to message view"
+msgstr ""
+
+#: msgSwitchToConvView
+msgid "Switch to conv view"
+msgstr ""
+
+#: removeTag
+msgid "Remove Tag"
+msgstr ""
+
+#: newMessage
+msgid "New Message"
+msgstr ""
+
+#: addContact
+msgid "Add to Contacts"
+msgstr ""
+
+#. # Message header
+#: from
+msgid "from"
+msgstr ""
+
+#: obo
+msgctxt "obo"
+msgid "on behalf of"
+msgstr ""
+
+#: to
+msgid "to"
+msgstr ""
+
+#: showDetails
+msgid "details"
+msgstr ""
+
+#: hideDetails
+msgid "hide details"
+msgstr ""
+
+#. # Conversation header
+#: noSubject
+msgid "[no subject]"
+msgstr ""
+
+#. # Attachments section
+#. # 0 = content type (eg "image/xjpeg")
+#: unknownAttType
+msgid "Unknown <{0}>"
+msgstr ""
+
+#: bytes
+msgid "B"
+msgstr ""
+
+#: kilobytes
+msgid "KB"
+msgstr ""
+
+#: megabytes
+msgid "MB"
+msgstr ""
+
+#. # Progress when uploading an attachment
+#: attUploadProgress
+msgid "Uploading: {percent}%"
+msgstr ""
+
+#. # "Show Images" info bar
+#: imagesNotLoaded
+msgid "Remote images have not been loaded."
+msgstr ""
+
+#: loadImages
+msgid "Load Images"
+msgstr ""
+
+#. # Warning for truncated message
+#: messageTruncated
+msgid "This message is very large. Not all of it is being shown."
+msgstr ""
+
+#: messageTruncatedLink
+msgid "Show entire message"
+msgstr ""
+
+#. # Message body
+#: showQuotedText
+msgid "show quoted text"
+msgstr ""
+
+#: hideQuotedText
+msgid "hide quoted text"
+msgstr ""
+
+#. # Invite
+#: invStartLabel
+msgctxt "invStartLabel"
+msgid "Start"
+msgstr ""
+
+#: invEndLabel
+msgctxt "invEndLabel"
+msgid "End"
+msgstr ""
+
+#: invLocationLabel
+msgctxt "invLocationLabel"
+msgid "Location"
+msgstr ""
+
+#: invOrganizerLabel
+msgid "Organizer"
+msgstr ""
+
+#: invSentByLabel
+msgid "Sent By"
+msgstr ""
+
+#: invAttendeesLabel
+msgctxt "invAttendeesLabel"
+msgid "Attendees"
+msgstr ""
+
+#: invOptionalAttendeesLabel
+msgid "Optional"
+msgstr ""
+
+#. # Used for all-day appointment
+#: invDateLabel
+msgctxt "invDateLabel"
+msgid "Date"
+msgstr ""
+
+#: invRespondLabel
+msgid "Respond"
+msgstr ""
+
+#: invSubjectLabel
+msgctxt "invSubjectLabel"
+msgid "Subject"
+msgstr ""
+
+#: invStatusLabel
+msgid "Status"
+msgstr ""
+
+#: invIntendedFor
+msgid "Intended for"
+msgstr ""
+
+#: invReminderLabel
+msgctxt "invReminderLabel"
+msgid "Reminder"
+msgstr ""
+
+#: invReminderText
+msgid "minutes before"
+msgstr ""
+
+#: invRecurLabel
+msgid "Repeats"
+msgstr ""
+
+#: inviteNotCurrent
+msgid "Invitation is not current"
+msgstr ""
+
+#: time
+msgid "Time"
+msgstr ""
+
+#: recurDailyEveryDay
+msgid "Every day;"
+msgstr ""
+
+#: recurDailyEveryWeekday
+msgid "Every weekday;"
+msgstr ""
+
+#: recurDailyEveryNumDays
+msgid "Every {0} days;"
+msgstr ""
+
+#: recurWeeklyEveryWeekday
+msgid "Every {0};"
+msgstr ""
+
+#: recurWeeklyEveryNumWeeksDate
+msgid "Every {0} week(s) on {1};"
+msgstr ""
+
+#: recurMonthlyEveryNumMonthsDate
+msgid "Day {0} of every {1} month(s);"
+msgstr ""
+
+#: recurYearlyEveryMonth
+msgid "The {0} {1} of every {2};"
+msgstr ""
+
+#: recurYearlyEveryDate
+msgid "Every year on {0} {1};"
+msgstr ""
+
+#: recurMonthly
+msgid "The {0} {1} of every {2} month(s);"
+msgstr ""
+
+#: recurStart
+msgid "Effective {0}"
+msgstr ""
+
+#: recurEndNone
+msgid "No end date;"
+msgstr ""
+
+#: recurEndNumber
+msgid "End after {0} occurrence(s);"
+msgstr ""
+
+#: recurEndByDate
+msgid "End by {0};"
+msgstr ""
+
+#: recurBlurb
+msgid "{0} {2} {1}"
+msgstr ""
+
+#: recurLast
+msgid "last"
+msgstr ""
+
+#: recurFirst
+msgid "first"
+msgstr ""
+
+#: recurSecond
+msgid "second"
+msgstr ""
+
+#: recurThird
+msgid "third"
+msgstr ""
+
+#: recurFourth
+msgid "fourth"
+msgstr ""
+
+#: recurDay
+msgid "day"
+msgstr ""
+
+#: recurWeekend
+msgid "weekend day"
+msgstr ""
+
+#: recurWeekday
+msgid "weekday"
+msgstr ""
+
+#: recurNoEndDate
+msgid "No end date"
+msgstr ""
+
+#. # Invite actions
+#: acceptAction
+msgid "Accept"
+msgstr ""
+
+#: tentativeAction
+msgctxt "tentativeAction"
+msgid "Tentative"
+msgstr ""
+
+#: declineAction
+msgid "Decline"
+msgstr ""
+
+#: accepted
+msgid "Accepted"
+msgstr ""
+
+#: declined
+msgid "Declined"
+msgstr ""
+
+#: tentative
+msgctxt "tentative"
+msgid "Tentative"
+msgstr ""
+
+#: noresponse
+msgid "No response"
+msgstr ""
+
+#. # Invite reply content
+#: invReplyAcceptText
+msgid "Yes, I will attend."
+msgstr ""
+
+#: invReplyTentativeText
+msgid "I might attend."
+msgstr ""
+
+#: invReplyDeclineText
+msgid "No, I won't attend."
+msgstr ""
+
+#. # Invite I've responded to
+#: inviteAccepted
+msgid "Invite Accepted"
+msgstr ""
+
+#: inviteAcceptedTentatively
+msgid "Invite Accepted Tentatively"
+msgstr ""
+
+#: inviteDeclined
+msgid "Invite Declined"
+msgstr ""
+
+#. # Invites for which I've received responses
+#: inviteMsgAccepted
+msgid "{0} has accepted the invitation."
+msgstr ""
+
+#: inviteMsgDeclined
+msgid "{0} has declined the invitation."
+msgstr ""
+
+#: inviteMsgTentative
+msgid "{0} has tentatively accepted the invitation."
+msgstr ""
+
+#. # Appointment View related
+#: attendeeEditWarning
+msgid ""
+"Changes that you make apply only to your local copy of the appointment. "
+"Changes made by the organizer will overwrite your changes."
+msgstr ""
+
+#: attendeesTitle
+msgctxt "attendeesTitle"
+msgid "Attendees"
+msgstr ""
+
+#. # Toast
+#: invReplySent
+msgid "Invite reply sent"
+msgstr ""
+
+#. # MIME types (attachments)
+#: mimeAdobePdfDocument
+msgid "Adobe PDF"
+msgstr ""
+
+#: mimeAdobePsDocument
+msgid "Adobe Postscript"
+msgstr ""
+
+#: mimeApplication
+msgid "Application"
+msgstr ""
+
+#: mimeAudio
+msgid "Audio"
+msgstr ""
+
+#: mimeBmpImage
+msgid "Bitmap Image"
+msgstr ""
+
+#: mimeCalendar
+msgctxt "mimeCalendar"
+msgid "Calendar"
+msgstr ""
+
+#: mimeEnrichedText
+msgid "Enriched Text"
+msgstr ""
+
+#: mimeGifImage
+msgid "GIF Image"
+msgstr ""
+
+#: mimeHtmlDocument
+msgid "HTML"
+msgstr ""
+
+#: mimeImage
+msgid "Image"
+msgstr ""
+
+#: mimeJavaSource
+msgid "Java Source Code"
+msgstr ""
+
+#: mimeJpegImage
+msgid "JPEG Image"
+msgstr ""
+
+#: mimeMailMessage
+msgid "Mail Message"
+msgstr ""
+
+#: mimeMp3Audio
+msgid "MP3 Audio"
+msgstr ""
+
+#: mimeMsDownload
+msgid "Microsoft DLL"
+msgstr ""
+
+#: mimeMsExcelDocument
+msgid "Microsoft Excel"
+msgstr ""
+
+#: mimeMsPPTDocument
+msgid "Microsoft PowerPoint"
+msgstr ""
+
+#: mimeMsProjectDocument
+msgid "Microsoft Project"
+msgstr ""
+
+#: mimeMsVisioDocument
+msgid "Microsoft Visio"
+msgstr ""
+
+#: mimeMsWMV
+msgid "Windows Media Video"
+msgstr ""
+
+#: mimeMsWordDocument
+msgid "Microsoft Word"
+msgstr ""
+
+#: mimePngImage
+msgid "PNG Image"
+msgstr ""
+
+#: mimeTextDocuments
+msgid "Text Documents"
+msgstr ""
+
+#: mimeTextFile
+msgid "Text File"
+msgstr ""
+
+#: mimeTiffImage
+msgid "TIFF Image"
+msgstr ""
+
+#: mimeUnknownBinaryType
+msgid "Unknown Binary Type"
+msgstr ""
+
+#: mimeVideo
+msgid "Video"
+msgstr ""
+
+#: mimeWaveAudio
+msgid "WAV Audio"
+msgstr ""
+
+#: mimeXmlDocument
+msgid "XML"
+msgstr ""
+
+#: mimeZimbraDocument
+msgid "Zimbra Document"
+msgstr ""
+
+#: mimeZimbraPresentation
+msgid "Zimbra Presentation"
+msgstr ""
+
+#: mimeZimbraSpreadsheet
+msgid "Zimbra Spreadsheet"
+msgstr ""
+
+#: mimeZipFile
+msgid "Zip File"
+msgstr ""
+
+#. # Compose form: title, button labels, errors
+#: compose
+msgid "Compose"
+msgstr ""
+
+#: send
+msgid "Send"
+msgstr ""
+
+#: saveDraftWarning
+msgid "Save current message as draft?"
+msgstr ""
+
+#: showCcBcc
+msgid "Show Cc/Bcc"
+msgstr ""
+
+#: hideCcBcc
+msgid "Hide Cc/Bcc"
+msgstr ""
+
+#: attach
+msgid "Attach"
+msgstr ""
+
+#: errorNoAddresses
+msgid "There must be at least one recipient"
+msgstr ""
+
+#: errorNoSubject
+msgid "No subject. Send anyway?"
+msgstr ""
+
+#. # Phrases used while composing, or to find quoted content
+#: changed
+msgid "changed"
+msgstr ""
+
+#: forwardedMessage
+msgid "Forwarded Message"
+msgstr ""
+
+#: forwardedMessage1
+msgid "Begin forwarded message:"
+msgstr ""
+
+#: on
+msgid "on"
+msgstr ""
+
+#: originalMessage
+msgid "Original Message"
+msgstr ""
+
+#: originalAppointment
+msgid "Original Appointment"
+msgstr ""
+
+#: wrote
+msgid "wrote"
+msgstr ""
+
+#: addOriginalAttachments
+msgid "Add attachments from original message"
+msgstr ""
+
+#: removeAttachment
+msgid "Remove"
+msgstr ""
+
+#. # Toast messages that the user sees after performing an action on a message or conversation
+#: moveMessage
+msgid "Message moved to {0}"
+msgstr ""
+
+#: moveConversation
+msgid "Conversation moved to {0}"
+msgstr ""
+
+#: moveContact
+msgid "{0} moved to {1}"
+msgstr ""
+
+#: draftSaved
+msgid "Draft saved"
+msgstr ""
+
+#: undo
+msgid "Undo"
+msgstr ""
+
+#: messageSent
+msgid "Message sent"
+msgstr ""
+
+#: tagAdded
+msgid "Tag \"{0}\" added"
+msgstr ""
+
+#: tagRemoved
+msgid "Tag \"{0}\" removed"
+msgstr ""
+
+#: messageDeleted
+msgid "Message permanently deleted"
+msgstr ""
+
+#: convDeleted
+msgid "Conversation deleted"
+msgstr ""
+
+#: messageMarkedRead
+msgid "Message marked read"
+msgstr ""
+
+#: messageMarkedUnread
+msgid "Message marked unread"
+msgstr ""
+
+#: convMarkedRead
+msgid "Conversation marked read"
+msgstr ""
+
+#: convMarkedUnread
+msgid "Conversation marked unread"
+msgstr ""
+
+#: messageFlagged
+msgid "Message flagged"
+msgstr ""
+
+#: messageUnflagged
+msgid "Message unflagged"
+msgstr ""
+
+#: convFlagged
+msgid "Conversation flagged"
+msgstr ""
+
+#: convUnflagged
+msgid "Conversation unflagged"
+msgstr ""
+
+#. # Warning for permanent deletion
+#: hardDeleteMsgTitle
+msgid "Delete Message"
+msgstr ""
+
+#: hardDeleteMsgText
+msgid "This message will be permanently deleted. Continue?"
+msgstr ""
+
+#: hardDeleteConvTitle
+msgid "Delete Conversation"
+msgstr ""
+
+#: hardDeleteConvText
+msgid ""
+"Messages in the conversation that are in {0} will be permanently deleted. "
+"Continue?"
+msgstr ""
+
+#: hardDeleteFolderTitle
+msgid "Delete Folder"
+msgstr ""
+
+#: hardDeleteFolderText
+msgid "Are you sure you want to permanently delete the \"{0}\" folder?"
+msgstr ""
+
+#: hardDeleteTagTitle
+msgid "Delete Tag"
+msgstr ""
+
+#: hardDeleteTagText
+msgid "Are you sure you want to permanently delete the \"{0}\" tag?"
+msgstr ""
+
+#: hardDeleteContactTitle
+msgid "Delete Contact"
+msgstr ""
+
+#: hardDeleteContactText
+msgid "Are you sure you want to permanently delete the contact for \"{0}\"?"
+msgstr ""
+
+#: hardDeleteApptTitle
+msgid "Delete Appointment"
+msgstr ""
+
+#: hardDeleteApptText
+msgid "Are you sure you want to permanently delete this appointment?"
+msgstr ""
+
+#. # Alert for trying to reply to a feed (RSS) message
+#: alertFeedReplyTitle
+msgctxt "alertFeedReplyTitle"
+msgid "Warning"
+msgstr ""
+
+#: alertFeedReplyText
+msgid "You cannot reply to a message in an RSS or ATOM feed."
+msgstr ""
+
+#. # Quick reply placeholder text
+#: quickReplyPlaceholder
+msgid "Reply to {0}"
+msgstr ""
+
+#: quickReplyTitle
+msgid "To {0}"
+msgstr ""
+
+#: and
+msgid "and"
+msgstr ""
+
+#. # Client commands (search beginning with "$cmd:")
+#: version
+msgid "Version"
+msgstr ""
+
+#. # Strings for viewing, creating, or editing a contact
+#. # Contact fields
+#: email
+msgid "Email"
+msgstr ""
+
+#: phone
+msgid "Phone"
+msgstr ""
+
+#: fax
+msgid "Fax"
+msgstr ""
+
+#: address
+msgid "Address"
+msgstr ""
+
+#: url
+msgid "URL"
+msgstr ""
+
+#. # Contact field types
+#: work
+msgid "Work"
+msgstr ""
+
+#: home
+msgid "Home"
+msgstr ""
+
+#: other
+msgctxt "other"
+msgid "Other"
+msgstr ""
+
+#. # Phone types
+#: mobile
+msgid "Mobile"
+msgstr ""
+
+#: assistant
+msgid "Assistant"
+msgstr ""
+
+#: callback
+msgid "Callback"
+msgstr ""
+
+#: car
+msgid "Car"
+msgstr ""
+
+#: company
+msgctxt "company"
+msgid "Company"
+msgstr ""
+
+#: workAlt
+msgid "Alternate Work"
+msgstr ""
+
+#. # Address parts
+#: streetAdd
+msgid "Street Address"
+msgstr ""
+
+#: city
+msgid "City"
+msgstr ""
+
+#: state
+msgid "State"
+msgstr ""
+
+#: postalcode
+msgid "Zipcode"
+msgstr ""
+
+#: country
+msgid "Country"
+msgstr ""
+
+#. # Form field placeholders
+#: placeholderPrefix
+msgid "Prefix"
+msgstr ""
+
+#: placeholderFirstName
+msgid "First Name"
+msgstr ""
+
+#: placeholderMiddleName
+msgid "Middle Name"
+msgstr ""
+
+#: placeholderMaidenName
+msgid "Maiden Name"
+msgstr ""
+
+#: placeholderLastName
+msgid "Last Name"
+msgstr ""
+
+#: placeholderSuffix
+msgid "Suffix"
+msgstr ""
+
+#: placeholderNickname
+msgid "Nickname"
+msgstr ""
+
+#: placeholderJobTitle
+msgid "Job Title"
+msgstr ""
+
+#: placeholderDepartment
+msgid "Department"
+msgstr ""
+
+#: placeholderCompany
+msgctxt "placeholderCompany"
+msgid "Company"
+msgstr ""
+
+#: placeholderSubject
+msgctxt "placeholderSubject"
+msgid "Subject"
+msgstr ""
+
+#: placeholderLocation
+msgctxt "placeholderLocation"
+msgid "Location"
+msgstr ""
+
+#: placeholderEquipment
+msgctxt "placeholderEquipment"
+msgid "Equipment"
+msgstr ""
+
+#. # Strings needed during process of creating or editing a contact
+#: createContact
+msgid "New Contact"
+msgstr ""
+
+#: contactCreated
+msgid "Contact Created"
+msgstr ""
+
+#: contactEdited
+msgid "Contact Edited"
+msgstr ""
+
+#: editContact
+msgid "Edit Contact"
+msgstr ""
+
+#: errorCreateContact
+msgid "Unable to Create Contact"
+msgstr ""
+
+#: contactMovedToTrash
+msgid "Contact moved to trash"
+msgstr ""
+
+#: contactDeleted
+msgid "Contact deleted"
+msgstr ""
+
+#: errorEditContact
+msgid "Unable to Edit Contact"
+msgstr ""
+
+#: errorNoFields
+msgid "There must be at least one field populated in the contact"
+msgstr ""
+
+#: errorEditContactGroup
+msgid "Editing a contact group is not supported."
+msgstr ""
+
+#: contactFormButtonAddField
+msgid "Add Field"
+msgstr ""
+
+#: contactFormButtonAddEmailAddress
+msgid "Add Email Address"
+msgstr ""
+
+#: contactFormButtonAddPhoneNumber
+msgid "Add Phone Number"
+msgstr ""
+
+#: contactFormButtonAddPhysicalAddress
+msgid "Add Physical Address"
+msgstr ""
+
+#: contactFormButtonAddWebsiteURL
+msgid "Add Website URL"
+msgstr ""
+
+#: contactFormRemoveFieldConfirmationMessageHeader
+msgid "Confirmation"
+msgstr ""
+
+#: contactFormRemoveFieldConfirmationMessageBody
+msgid "Are you sure you want to remove this field?"
+msgstr ""
+
+#. # Distribution lists
+#: dlOwnerAndMember
+msgid "You are an owner and member of this list."
+msgstr ""
+
+#: dlOwner
+msgid "You are an owner of this list."
+msgstr ""
+
+#: dlMember
+msgid "You are a member of this list."
+msgstr ""
+
+#. # Generic compose/edit strings (new message, edit contact, etc)
+#: saveChangesWarning
+msgid "Do you want to save changes?"
+msgstr ""
+
+#. # Server errors
+#: unknownError
+msgid "An unknown error occurred."
+msgstr ""
+
+#: unknownErrorWithMsg
+msgid "An error occurred ({0})."
+msgstr ""
+
+#: errorTimeout
+msgid "Request timed out."
+msgstr ""
+
+#: errorServerUnavailable
+msgid "Cannot connect to server."
+msgstr ""
+
+#: errorServerUnavailableLogout
+msgid "Cannot connect to server. To exit, close this window."
+msgstr ""
+
+#: account.MAINTENANCE_MODE
+msgctxt "account.MAINTENANCE_MODE"
+msgid "This account is currently in maintenance mode."
+msgstr ""
+
+#: account.NO_SUCH_ACCOUNT
+msgid "No such account exists."
+msgstr ""
+
+#: account.NO_SUCH_SAVED_SEARCH
+msgid "No such saved search exists."
+msgstr ""
+
+#: account.ACCT_NO_SUCH_TAG
+msgctxt "account.ACCT_NO_SUCH_TAG"
+msgid "No such tag exists."
+msgstr ""
+
+#: mail.ALREADY_EXISTS
+msgid "An object with that name already exists."
+msgstr ""
+
+#: mail.MODIFY_CONFLICT
+msgid ""
+"Item version number conflict. Another version was added between edit and "
+"save."
+msgstr ""
+
+#: mail.INVALID_NAME
+msgctxt "mail.INVALID_NAME"
+msgid "\"{0}\" is not a valid name. It contains at least one invalid character."
+msgstr ""
+
+#: mail.INVITE_OUT_OF_DATE
+msgid "The invite has been modified and is no longer current."
+msgstr ""
+
+#: mail.MAINTENANCE
+msgctxt "mail.MAINTENANCE"
+msgid "This account is currently in maintenance mode."
+msgstr ""
+
+#: mail.MESSAGE_TOO_BIG
+msgid ""
+"This message cannot be sent because it has exceeded the maximum allowed "
+"size."
+msgstr ""
+
+#: mail.NO_SUCH_CONV
+msgid "No such conversation exists."
+msgstr ""
+
+#: mail.NO_SUCH_FOLDER
+msgid "No such folder exists."
+msgstr ""
+
+#: mail.NO_SUCH_ITEM
+msgid "Item \"{0}\" does not exist."
+msgstr ""
+
+#: mail.NO_SUCH_CALITEM
+msgid ""
+"Calendar or task item \"{0}\" does not exist. It may have been rescheduled."
+msgstr ""
+
+#: mail.NO_SUCH_MSG
+msgid "No such message exists."
+msgstr ""
+
+#: mail.NO_SUCH_PART
+msgid "No such message part exists."
+msgstr ""
+
+#: mail.NO_SUCH_TAG
+msgctxt "mail.NO_SUCH_TAG"
+msgid "No such tag exists."
+msgstr ""
+
+#: mail.QUERY_PARSE_ERROR
+msgid "Unable to parse the search query."
+msgstr ""
+
+#: mail.QUOTA_EXCEEDED
+msgid ""
+"Your message could not be sent because you have exceeded your mail quota."
+msgstr ""
+
+#: mail.TOO_MANY_CONTACTS
+msgid ""
+"Contact could not be created because you have exceeded your contact quota."
+msgstr ""
+
+#: mail.TOO_MANY_QUERY_TERMS_EXPANDED
+msgid "Please be more specific in your search criteria."
+msgstr ""
+
+#. #mail.MAIL_UNABLE_TO_IMPORT_APPOINTMENTS = Unable to import. The chosen file may be invalid.
+#. #mail.MAIL_UNABLE_TO_IMPORT_CONTACTS = Unable to import. The chosen file may be invalid.
+#: mail.SEND_FAILURE
+msgid "Could not send message: {0}"
+msgstr ""
+
+#: mail.SEND_ABORTED_ADDRESS_FAILURE
+msgid "Could not send message due to one or more invalid addresses: {0}"
+msgstr ""
+
+#: mail.TOO_MANY_TAGS
+msgid "A tag could not be created because you have exceeded the limit."
+msgstr ""
+
+#: service.PARSE_ERROR
+msgid "A parsing error has occurred."
+msgstr ""
+
+#: service.PERM_DENIED
+msgid "Permission denied."
+msgstr ""
+
+#: service.FAILURE
+msgid "A network service error has occurred."
+msgstr ""
+
+#: service.INVALID_REQUEST
+msgid "An invalid request was made."
+msgstr ""
+
+#: service.UNKNOWN_DOCUMENT
+msgid "Server error (unknown command sent to server)."
+msgstr ""
+
+#: service.RESOURCE_UNREACHABLE
+msgid "Resource unreachable."
+msgstr ""
+
+#: service.TEMPORARILY_UNAVAILABLE
+msgid "Service temporarily unavailable."
+msgstr ""
+
+#: service.AUTH_REQUIRED
+msgid "Authentication Required"
+msgstr ""
+
+#: service.AUTH_EXPIRED
+msgid "Your session has expired. Please login again."
+msgstr ""
+
+#: service.AUTH_EXPIRED_title
+msgid "Authentication Expired"
+msgstr ""
+
+#: service.WRONG_HOST
+msgid "Request was sent to the wrong server."
+msgstr ""
+
+#: service.NON_READONLY_OPERATION_DENIED
+msgid "The server is in read-only mode."
+msgstr ""
+
+#: service.PROXY_ERROR
+msgid "Proxy error."
+msgstr ""
+
+#: service.TOO_MANY_HOPS
+msgid "Too many hops between servers."
+msgstr ""
+
+#: service.ALREADY_IN_PROGRESS
+msgid "Operation already in progress."
+msgstr ""
+
+#: service.NOT_IN_PROGRESS
+msgid "Operation not in progress."
+msgstr ""
+
+#: service.INTERRUPTED
+msgid "The operation has been interrupted"
+msgstr ""
+
+#. #service.NO_SPELL_CHECK_URL = No spell check server defined.
+#. #Javascript disabled error
+#: errorJavaScriptRequired
+msgid ""
+"<h2> JavaScript must be enabled.</h2> <p> To use the Zimbra touch client, "
+"enable JavaScript by changing your browser options, then <a href=\"{0}\">try "
+"again</a> or <a href=\"{1}\">switch to the basic client</a>, which does not "
+"require JavaScript.</p>"
+msgstr ""
+
+#: errorGoBack
+msgid "Go Back"
+msgstr ""
+
+#. # Timezone names
+#: Africa/Algiers
+msgid "GMT +01:00 West Central Africa"
+msgstr ""
+
+#: America/Asuncion
+msgid "GMT -04:00 Asuncion"
+msgstr ""
+
+#: Africa/Cairo
+msgid "GMT +02:00 Egypt"
+msgstr ""
+
+#: Africa/Casablanca
+msgid "GMT +00:00 Casablanca"
+msgstr ""
+
+#: Africa/Monrovia
+msgid "GMT +00:00 Monrovia"
+msgstr ""
+
+#: Africa/Harare
+msgid "GMT +02:00 Harare, Pretoria"
+msgstr ""
+
+#: Africa/Nairobi
+msgid "GMT +03:00 Nairobi"
+msgstr ""
+
+#: Africa/Windhoek
+msgid "GMT +01:00 Namibia"
+msgstr ""
+
+#: America/Bogota
+msgid "GMT -05:00 Colombia"
+msgstr ""
+
+#: America/Argentina/Buenos_Aires
+msgid "GMT -03:00 Argentina"
+msgstr ""
+
+#: America/Caracas
+msgid "GMT -04:30 Caracas"
+msgstr ""
+
+#: America/Cayenne
+msgid "GMT -03:00 Cayenne, Fortaleza"
+msgstr ""
+
+#: America/Chihuahua
+msgid "GMT -07:00 Chihuahua, La Paz, Mazatlan"
+msgstr ""
+
+#: America/Cuiaba
+msgid "GMT -04:00 Cuiaba"
+msgstr ""
+
+#: America/Godthab
+msgid "GMT -03:00 Greenland"
+msgstr ""
+
+#: America/Guatemala
+msgid "GMT -06:00 Central America"
+msgstr ""
+
+#: America/Guyana
+msgid "GMT -04:00 Georgetown, La Paz, Manaus, San Juan"
+msgstr ""
+
+#: America/La_Paz
+msgid "GMT -04:00 La Paz"
+msgstr ""
+
+#: America/Manaus
+msgid "GMT -04:00 Manaus"
+msgstr ""
+
+#: America/Mexico_City
+msgid "GMT -06:00 Guadalajara, Mexico City, Monterrey"
+msgstr ""
+
+#: America/Montevideo
+msgid "GMT -03:00 Montevideo"
+msgstr ""
+
+#: America/Santiago
+msgid "GMT -04:00 Pacific South America"
+msgstr ""
+
+#: America/Tijuana
+msgid "GMT -08:00 Baja California"
+msgstr ""
+
+#: Asia/Almaty
+msgid "GMT +06:00 Astana"
+msgstr ""
+
+#: Asia/Amman
+msgid "GMT +02:00 Jordan"
+msgstr ""
+
+#: Asia/Baghdad
+msgid "GMT +03:00 Iraq"
+msgstr ""
+
+#: Asia/Baku
+msgid "GMT +04:00 Baku"
+msgstr ""
+
+#: Asia/Bangkok
+msgid "GMT +07:00 Bangkok, Hanoi, Jakarta"
+msgstr ""
+
+#: Asia/Beirut
+msgid "GMT +02:00 Beirut"
+msgstr ""
+
+#: Asia/Kolkata
+msgid "GMT +05:30 Chennai, Kolkata, Mumbai, New Delhi"
+msgstr ""
+
+#: Asia/Colombo
+msgid "GMT +05:30 Sri Jayawardenepura"
+msgstr ""
+
+#: Asia/Damascus
+msgid "GMT +02:00 Damascus"
+msgstr ""
+
+#: Asia/Dhaka
+msgid "GMT +06:00 Dhaka"
+msgstr ""
+
+#: Asia/Hong_Kong
+msgid "GMT +08:00 Beijing, Chongqing, Hong Kong, Urumqi"
+msgstr ""
+
+#: Asia/Irkutsk
+msgid "GMT +08:00 Irkutsk"
+msgstr ""
+
+#: Asia/Jerusalem
+msgid "GMT +02:00 Jerusalem"
+msgstr ""
+
+#: Asia/Kabul
+msgid "GMT +04:30 Kabul"
+msgstr ""
+
+#: Asia/Kamchatka
+msgid "GMT +12:00 Petropavlovsk-Kamchatsky"
+msgstr ""
+
+#: Asia/Karachi
+msgid "GMT +05:00 Islamabad, Karachi"
+msgstr ""
+
+#: Asia/Katmandu
+msgid "GMT +05:45 Kathmandu"
+msgstr ""
+
+#: Asia/Krasnoyarsk
+msgid "GMT +07:00 Krasnoyarsk"
+msgstr ""
+
+#: Asia/Kuala_Lumpur
+msgid "GMT +08:00 Kuala Lumpur, Singapore"
+msgstr ""
+
+#: Asia/Kuwait
+msgid "GMT +03:00 Kuwait, Riyadh"
+msgstr ""
+
+#: Asia/Magadan
+msgid "GMT +10:00 Magadan, Solomon Is., New Caledonia"
+msgstr ""
+
+#: Asia/Muscat
+msgid "GMT +04:00 Abu Dhabi, Muscat"
+msgstr ""
+
+#: Asia/Novosibirsk
+msgid "GMT +06:00 Novosibirsk"
+msgstr ""
+
+#: Asia/Rangoon
+msgid "GMT +06:30 Rangoon"
+msgstr ""
+
+#: Asia/Seoul
+msgid "GMT +09:00 Korea"
+msgstr ""
+
+#: Asia/Taipei
+msgid "GMT +08:00 Taipei"
+msgstr ""
+
+#: Asia/Tashkent
+msgid "GMT +05:00 Tashkent"
+msgstr ""
+
+#: Asia/Tbilisi
+msgid "GMT +04:00 Tbilisi"
+msgstr ""
+
+#: Asia/Tehran
+msgid "GMT +03:30 Tehran"
+msgstr ""
+
+#: Asia/Tokyo
+msgid "GMT +09:00 Japan"
+msgstr ""
+
+#: Asia/Ulaanbaatar
+msgid "GMT +08:00 Ulaanbaatar"
+msgstr ""
+
+#: Asia/Vladivostok
+msgid "GMT +10:00 Vladivostok"
+msgstr ""
+
+#: Asia/Yakutsk
+msgid "GMT +09:00 Yakutsk"
+msgstr ""
+
+#: Asia/Yekaterinburg
+msgid "GMT +05:00 Yekaterinburg"
+msgstr ""
+
+#: Asia/Yerevan
+msgid "GMT +04:00 Yerevan"
+msgstr ""
+
+#: Atlantic/Azores
+msgid "GMT -01:00 Azores"
+msgstr ""
+
+#: Atlantic/Cape_Verde
+msgid "GMT -01:00 Cape Verde Is."
+msgstr ""
+
+#: Atlantic/South_Georgia
+msgid "GMT -02:00 Mid-Atlantic"
+msgstr ""
+
+#: Australia/Adelaide
+msgid "GMT +09:30 Adelaide"
+msgstr ""
+
+#: Australia/Brisbane
+msgid "GMT +10:00 Brisbane"
+msgstr ""
+
+#: Australia/Darwin
+msgid "GMT +09:30 Darwin"
+msgstr ""
+
+#: Australia/Hobart
+msgid "GMT +10:00 Hobart"
+msgstr ""
+
+#: Australia/Perth
+msgid "GMT +08:00 Perth"
+msgstr ""
+
+#: Australia/Sydney
+msgid "GMT +10:00 Canberra, Melbourne, Sydney"
+msgstr ""
+
+#: America/Sao_Paulo
+msgid "GMT -03:00 Brasilia"
+msgstr ""
+
+#: America/Halifax
+msgid "GMT -04:00 Atlantic Time (Canada)"
+msgstr ""
+
+#: America/St_Johns
+msgid "GMT -03:30 Newfoundland"
+msgstr ""
+
+#: America/Regina
+msgid "GMT -06:00 Saskatchewan"
+msgstr ""
+
+#: Etc/GMT-12
+msgid "GMT +12:00 GMT+12"
+msgstr ""
+
+#: Etc/GMT+11
+msgid "GMT -11:00 GMT-11"
+msgstr ""
+
+#: Etc/GMT+12
+msgid "GMT -12:00 Dateline"
+msgstr ""
+
+#: Etc/GMT+2
+msgid "GMT -02:00 GMT-02"
+msgstr ""
+
+#: UTC
+msgid "GMT/UTC Coordinated Universal Time"
+msgstr ""
+
+#: Europe/Athens
+msgid "GMT +02:00 Athens, Beirut, Bucharest, Istanbul"
+msgstr ""
+
+#: Europe/Belgrade
+msgid "GMT +01:00 Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+msgstr ""
+
+#: Europe/Berlin
+msgid "GMT +01:00 Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+msgstr ""
+
+#: Europe/Brussels
+msgid "GMT +01:00 Brussels, Copenhagen, Madrid, Paris"
+msgstr ""
+
+#: Europe/Helsinki
+msgid "GMT +02:00 Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+msgstr ""
+
+#: Europe/Istanbul
+msgid "GMT +02:00 Istanbul"
+msgstr ""
+
+#: Europe/Kaliningrad
+msgid "GMT +02:00 Kaliningrad"
+msgstr ""
+
+#: Europe/London
+msgid "GMT +00:00 Britain, Ireland, Portugal"
+msgstr ""
+
+#: Europe/Minsk
+msgid "GMT +03:00 Minsk"
+msgstr ""
+
+#: Europe/Moscow
+msgid "GMT +03:00 Moscow, St. Petersburg, Volgograd"
+msgstr ""
+
+#: Europe/Warsaw
+msgid "GMT +01:00 Sarajevo, Skopje, Warsaw, Zagreb"
+msgstr ""
+
+#: Indian/Mauritius
+msgid "GMT +04:00 Port Louis"
+msgstr ""
+
+#: Pacific/Auckland
+msgid "GMT +12:00 New Zealand"
+msgstr ""
+
+#: Pacific/Fiji
+msgid "GMT +12:00 Fiji"
+msgstr ""
+
+#: Pacific/Guadalcanal
+msgid "GMT +11.00 Solomon Is. / New Caledonia"
+msgstr ""
+
+#: Pacific/Guam
+msgid "GMT +10:00 Guam, Port Moresby"
+msgstr ""
+
+#: Pacific/Midway
+msgid "GMT -11:00 Samoa"
+msgstr ""
+
+#: Pacific/Tongatapu
+msgid "GMT +13:00 Nuku'alofa"
+msgstr ""
+
+#: America/Anchorage
+msgid "GMT -09:00 Alaska"
+msgstr ""
+
+#: America/Phoenix
+msgid "GMT -07:00 Arizona"
+msgstr ""
+
+#: America/Chicago
+msgid "GMT -06:00 US/Canada Central"
+msgstr ""
+
+#: America/Indiana/Indianapolis
+msgid "GMT -05:00 Indiana (East)"
+msgstr ""
+
+#: America/New_York
+msgid "GMT -05:00 US/Canada Eastern"
+msgstr ""
+
+#: Pacific/Honolulu
+msgid "GMT -10:00 Hawaii"
+msgstr ""
+
+#: America/Denver
+msgid "GMT -07:00 US/Canada Mountain"
+msgstr ""
+
+#: America/Los_Angeles
+msgid "GMT -08:00 US/Canada Pacific"
+msgstr ""
+
+#. #Calendar buttons
+#: calDayLabel
+msgid "Day"
+msgstr ""
+
+#: calMonthLabel
+msgid "Month"
+msgstr ""
+
+#: calYearLabel
+msgid "Year"
+msgstr ""
+
+#: calTodayLabel
+msgid "Today"
+msgstr ""
+
+#: calWeekLabel
+msgid "Week"
+msgstr ""
+
+#: calWorkWeekLabel
+msgid "Work Week"
+msgstr ""
+
+#. #Appointment dialog buttons
+#: apptOpenInstance
+msgid "Open Instance"
+msgstr ""
+
+#: apptOpenSeries
+msgid "Open Series"
+msgstr ""
+
+#. # Strings needed during process of creating or editing an appointment
+#: create
+msgid "Create"
+msgstr ""
+
+#: createAppointment
+msgid "New Event"
+msgstr ""
+
+#: editAppointment
+msgid "Edit Event"
+msgstr ""
+
+#: forwardAppointment
+msgid "Forward Event"
+msgstr ""
+
+#: appointmentCreated
+msgid "Event Created"
+msgstr ""
+
+#: appointmentEdited
+msgid "Event Edited"
+msgstr ""
+
+#: invitationSent
+msgid "Invitation Sent"
+msgstr ""
+
+#: invitationsSent
+msgid "Invitations Sent"
+msgstr ""
+
+#: appointmentExceptionNote
+msgid "This is an exception to the series."
+msgstr ""
+
+#: errorCreateAppt
+msgid "Unable to Create Appointment"
+msgstr ""
+
+#: errorInvalidApptEndBeforeStart
+msgid "The end time must occur after the start time."
+msgstr ""
+
+#: errorMissingSubject
+msgid "Subject is a required field."
+msgstr ""
+
+#: appointmentMovedToTrash
+msgid "Appointment moved to trash"
+msgstr ""
+
+#: appointmentDeleted
+msgid "Appointment deleted"
+msgstr ""
+
+#. # Appointment creation
+#: endLabel
+msgctxt "endLabel"
+msgid "End"
+msgstr ""
+
+#: equipmentLabel
+msgctxt "equipmentLabel"
+msgid "Equipment"
+msgstr ""
+
+#: locationLabel
+msgctxt "locationLabel"
+msgid "Location"
+msgstr ""
+
+#: notes
+msgid "Notes"
+msgstr ""
+
+#: repeatLabel
+msgid "Repeat"
+msgstr ""
+
+#: reminderLabel
+msgctxt "reminderLabel"
+msgid "Reminder"
+msgstr ""
+
+#: subjectLabel
+msgctxt "subjectLabel"
+msgid "Subject"
+msgstr ""
+
+#: startLabel
+msgctxt "startLabel"
+msgid "Start"
+msgstr ""
+
+#: titleLabel
+msgid "Title"
+msgstr ""
+
+#: allDay
+msgid "All day"
+msgstr ""
+
+#: addAttendeeLabel
+msgid "Add Attendee"
+msgstr ""
+
+#: response
+msgid "Response"
+msgstr ""
+
+#: display
+msgid "Display"
+msgstr ""
+
+#: calendarLabel
+msgctxt "calendarLabel"
+msgid "Calendar"
+msgstr ""
+
+#: hourLabel
+msgid "Hour"
+msgstr ""
+
+#: minuteLabel
+msgid "Minute"
+msgstr ""
+
+#: secondsLabel
+msgid "Seconds"
+msgstr ""
+
+#: msLabel
+msgid "Milliseconds"
+msgstr ""
+
+#: ampmLabel
+msgid "AM/PM"
+msgstr ""
+
+#: amLabel
+msgid "AM"
+msgstr ""
+
+#: pmLabel
+msgid "PM"
+msgstr ""
+
+#. # Appointment cancellation
+#: apptCancelSubject
+msgid "Cancelled: {0}"
+msgstr ""
+
+#. # Recurrence
+#: none
+msgid "None"
+msgstr ""
+
+#: everyDay
+msgid "Every Day"
+msgstr ""
+
+#: everyWeek
+msgid "Every Week"
+msgstr ""
+
+#: everyMonth
+msgid "Every Month"
+msgstr ""
+
+#: everyYear
+msgid "Every Year"
+msgstr ""
+
+#. #Show as Options
+#: outOfOffice
+msgid "Out of Office"
+msgstr ""
+
+#: free
+msgid "Free"
+msgstr ""
+
+#: busy
+msgid "Busy"
+msgstr ""
+
+#. # Reminder Strings
+#: apptRemindNever
+msgid "Never"
+msgstr ""
+
+#: apptRemindNDaysBefore
+msgid "{0} days before"
+msgstr ""
+
+#: apptRemindNMinutesBefore
+msgid "{0} minutes before"
+msgstr ""
+
+#: apptRemindNHoursBefore
+msgid "{0} hours before"
+msgstr ""
+
+#: apptRemindNWeeksBefore
+msgid "{0} weeks before"
+msgstr ""
+
+#. # Strings for displaying dates
+#. # Days of the week, eg "Monday"
+#: weekdaySunday
+msgid "Sunday"
+msgstr ""
+
+#: weekdayMonday
+msgid "Monday"
+msgstr ""
+
+#: weekdayTuesday
+msgid "Tuesday"
+msgstr ""
+
+#: weekdayWednesday
+msgid "Wednesday"
+msgstr ""
+
+#: weekdayThursday
+msgid "Thursday"
+msgstr ""
+
+#: weekdayFriday
+msgid "Friday"
+msgstr ""
+
+#: weekdaySaturday
+msgid "Saturday"
+msgstr ""
+
+#. # Abbreviated days of the week, eg "Mon"; if omitted, same as long version
+#: weekdaySundayShort
+msgid "Sun"
+msgstr ""
+
+#: weekdayMondayShort
+msgid "Mon"
+msgstr ""
+
+#: weekdayTuesdayShort
+msgid "Tue"
+msgstr ""
+
+#: weekdayWednesdayShort
+msgid "Wed"
+msgstr ""
+
+#: weekdayThursdayShort
+msgid "Thu"
+msgstr ""
+
+#: weekdayFridayShort
+msgid "Fri"
+msgstr ""
+
+#: weekdaySaturdayShort
+msgid "Sat"
+msgstr ""
+
+#. # Months of the year, eg "February"
+#: monthJanuary
+msgid "January"
+msgstr ""
+
+#: monthFebruary
+msgid "February"
+msgstr ""
+
+#: monthMarch
+msgid "March"
+msgstr ""
+
+#: monthApril
+msgid "April"
+msgstr ""
+
+#: monthMay
+msgctxt "monthMay"
+msgid "May"
+msgstr ""
+
+#: monthJune
+msgid "June"
+msgstr ""
+
+#: monthJuly
+msgid "July"
+msgstr ""
+
+#: monthAugust
+msgid "August"
+msgstr ""
+
+#: monthSeptember
+msgid "September"
+msgstr ""
+
+#: monthOctober
+msgid "October"
+msgstr ""
+
+#: monthNovember
+msgid "November"
+msgstr ""
+
+#: monthDecember
+msgid "December"
+msgstr ""
+
+#. # Abbreviated months of the year, eg "Feb"; if omitted, same as long version
+#: monthJanuaryShort
+msgid "Jan"
+msgstr ""
+
+#: monthFebruaryShort
+msgid "Feb"
+msgstr ""
+
+#: monthMarchShort
+msgid "Mar"
+msgstr ""
+
+#: monthAprilShort
+msgid "Apr"
+msgstr ""
+
+#: monthMayShort
+msgctxt "monthMayShort"
+msgid "May"
+msgstr ""
+
+#: monthJuneShort
+msgid "Jun"
+msgstr ""
+
+#: monthJulyShort
+msgid "Jul"
+msgstr ""
+
+#: monthAugustShort
+msgid "Aug"
+msgstr ""
+
+#: monthSeptemberShort
+msgid "Sep"
+msgstr ""
+
+#: monthOctoberShort
+msgid "Oct"
+msgstr ""
+
+#: monthNovemberShort
+msgid "Nov"
+msgstr ""
+
+#: monthDecemberShort
+msgid "Dec"
+msgstr ""
+
+#. # Date formats
+#. # For date formatting options, see http://docs.sencha.com/touch/2-0/#!/api/Ext.Date
+#. # Date/time shown in detailed msg header: February 11, 2014 2:53:29 PM
+#: msgDetailHdrFormat
+msgid "F j, Y g:i:s A"
+msgstr ""
+
+#. # Date/time shown in an invite: Thursday, March 7, 2013 at 3:30 pm
+#: invDateTimeFormat
+msgid "l, F j, Y \\a\\t g:i A"
+msgstr ""
+
+#. # Date shown in an invite: Thursday, March 7, 2013
+#: invDateFormat
+msgid "l, F j, Y"
+msgstr ""
+
+#. #Date shown in the create appointment form: Thur, Mar 7, 2013
+#: invShortDateFormat
+msgid "D, M j, Y"
+msgstr ""
+
+#. # Date without year: Wednesday, July 10
+#: invDateOnlyFormat
+msgid "l, F j"
+msgstr ""
+
+#. # Start/End time in appt view: 1:00 pm
+#: invTimeFormat
+msgid "g:i A"
+msgstr ""
+
+#. # Date displayed in the calendar day/month view
+#: dayViewDateFormat
+msgid "D, M j"
+msgstr ""
+
+#: monthViewDateFormat
+msgid "F Y"
+msgstr ""
+
+#: durationHours
+msgid "{0} - {1}"
+msgstr ""
+
+#: durationMultiDays
+msgid "{0} {1} - {2} {3}"
+msgstr ""
+
+#. # Date format without day: July 10, 2014
+#: dateFormatNoDay
+msgid "F j, Y"
+msgstr ""
+
+#. # Strings for message view
+#: emptyMsgPanel
+msgid "Tap a message to view it"
+msgstr ""
+
+#: loadingMessages
+msgid "Loading messages..."
+msgstr ""
+
+#: noMessages
+msgid "No messages found"
+msgstr ""
